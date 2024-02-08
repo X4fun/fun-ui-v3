@@ -1,4 +1,4 @@
-# Fun UI v3
+# Fun UI V3
 
 This project is based on [v3-admin-vite](https://github.com/pany-ang/v3-admin-vite) by [pany](https://github.com/pany-ang).
 
